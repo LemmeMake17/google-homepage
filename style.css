@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    padding-top: 300px;
+    padding-bottom: 20px;
+}
+
+.top-buttons {
+    -webkit-appearance: button;
+}
+
+.sign {
+    margin: auto;
+}
+
+.search {
+    margin: auto auto auto 44%;
+}
